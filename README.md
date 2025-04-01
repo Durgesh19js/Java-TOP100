@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Java-TOP100
-=======
+
 # Java Project: Top 100 Java Questions
 
 ## Description
@@ -18,4 +18,4 @@ This repository is a great resource for anyone looking to enhance their understa
   - Core Java concepts (loops, methods, exception handling, etc.)
   
 - **Interview Preparation**: These 100 questions are frequently asked in technical interviews, making this project an excellent resource for interview preparation.
->>>>>>> 40f82f1c64156f35c0573c7d8bf60bf1b3dabc0b
+
