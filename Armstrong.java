@@ -6,6 +6,7 @@ public class Armstrong {
         Scanner sc=new Scanner(System.in);
         int n =sc.nextInt();
         System.out.println(isArmStrong(n));
+        sc.close();
     }
     static boolean isArmStrong(int n){
         int original =n;
@@ -17,5 +18,6 @@ public class Armstrong {
 
         }
         return sum==original;
+     
     }
 }
